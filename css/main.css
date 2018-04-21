@@ -204,7 +204,16 @@ ul, li {
 }
 
 @media screen and (max-width: 767px) {
-    .offer {
-        margin-top: 20px;
+    .header {
+        padding: 25px 0;
+    }
+    .title {
+        padding: 40px 0 25px;
+    }
+    .feature {
+        margin-bottom: 10px;
+    }
+    .footer {
+        padding: 25px 0;
     }
 }
